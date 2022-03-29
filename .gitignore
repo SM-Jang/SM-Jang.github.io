@@ -1,2 +1,16 @@
+.DS_Store
+
+# Compiled site
+_site
+.jekyll-cache/
+
+# Sass garbage
+.sass-cache
+
+# Bundler
+.bundle/
+vendor/
+
+# ipynb_checkpoints
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
